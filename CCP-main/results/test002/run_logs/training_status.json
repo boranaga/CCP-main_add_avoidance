@@ -1,0 +1,29 @@
+{
+    "WeightAgent_Training": {
+        "checkpoints": [
+            {
+                "steps": 294568,
+                "file_path": "results\\test002\\WeightAgent_Training\\WeightAgent_Training-294568.onnx",
+                "reward": -1.305065302643925,
+                "creation_time": 1733227829.9338307,
+                "auxillary_file_paths": [
+                    "results\\test002\\WeightAgent_Training\\WeightAgent_Training-294568.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 294568,
+            "file_path": "results\\test002\\WeightAgent_Training.onnx",
+            "reward": -1.305065302643925,
+            "creation_time": 1733227829.9338307,
+            "auxillary_file_paths": [
+                "results\\test002\\WeightAgent_Training\\WeightAgent_Training-294568.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cpu"
+    }
+}
